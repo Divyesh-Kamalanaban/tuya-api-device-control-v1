@@ -51,9 +51,6 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 * And go to Link devices by Account. Now, you should be able to link your account with the Tuya Developer account. 
 * Click on 'Add App Account', and scan the QR Code with the Tuya Smart App. Go to '+', Click on the scan button and scan the QR Code.
 * Allow all the prompts. You should be able to see your account under the linked accounts section, similar to this:
-
-![GitHub](/Tuya-img8.png)
-
 * Go to Device List and copy the code [Device ID] under the Name of the device.
 
 ## Control your device remotely within your desktop
