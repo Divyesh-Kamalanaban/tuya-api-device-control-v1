@@ -39,10 +39,8 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 ![GitHub](/Tuya-img5.png)
 
 * Click on the plus button in the right hand corner, and click on the scan icon next to the Auto Scan button.
-* Note: Connect your device with the smartplu through WiFi or bluetooth or any other mode of communication.
-* After following the onscreen instructions, You should see your homescreen with one device connected to your account.
-
-![GitHub](/Tuya-img6.png)
+* Note: Connect your device with the smartplug through WiFi or bluetooth or any other mode of communication.
+* After following the onscreen instructions, You should see your homescreen with one device connected to your account. I've already done mine.
 
 * If you have any problems regarding this, contact the Tuya support team.
 * Now, head back to your desktop.
