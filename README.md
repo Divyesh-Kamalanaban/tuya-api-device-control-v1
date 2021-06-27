@@ -23,7 +23,7 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 
 * Click on Create. You should see a menu popping up, similar to this:
 
-![GitHub](/Tuya-img3.png)
+![GitHub](/Screenshot 2021-06-27 at 9.29.13 PM.png)
 
 * Type in your project details like Project name and description. You can use any name and description.
 * Now, select 'Smart Home' for the industry and choose 'Smart Home PaaS' for the development method. You should see something like this:
