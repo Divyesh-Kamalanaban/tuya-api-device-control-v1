@@ -23,12 +23,12 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 
 * Click on Create. You should see a menu popping up, similar to this:
 
-![GitHub](/Tuya-img2.png)
+![GitHub](/Tuya-img3.png)
 
 * Type in your project details like Project name and description. You can use any name and description.
 * Now, select 'Smart Home' for the industry and choose 'Smart Home PaaS' for the development method. You should see something like this:
 
-![GitHub](/Tuya-img3.png)
+![GitHub](/Tuya-img4.png)
 
 ## Linking your smart Device with Tuya Cloud Platform
 * Head over to your smartphone and download the Tuya Smart App.
@@ -36,25 +36,25 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 * Note: You'll need your email ID for verification.
 * After loging in, you should be able to see a screen like this:
 
-![GitHub](/Tuya-img4.png)
+![GitHub](/Tuya-img5.png)
 
 * Click on the plus button in the right hand corner, and click on the scan icon next to the Auto Scan button.
 * Note: Connect your device with the smartplu through WiFi or bluetooth or any other mode of communication.
 * After following the onscreen instructions, You should see your homescreen with one device connected to your account.
 
-![GitHub](/Tuya-img5.png)
+![GitHub](/Tuya-img6.png)
 
 * If you have any problems regarding this, contact the Tuya support team.
 * Now, head back to your desktop.
 * Go to Link Devices:
 
-![GitHub Logo](/Tuya-img6.png)
+![GitHub Logo](/Tuya-img7.png)
 
 * And go to Link devices by Account. Now, you should be able to link your account with the Tuya Developer account. 
 * Click on 'Add App Account', and scan the QR Code with the Tuya Smart App. Go to '+', Click on the scan button and scan the QR Code.
 * Allow all the prompts. You should be able to see your account under the linked accounts section, similar to this:
 
-![GitHub](/Tuya-img7.png)
+![GitHub](/Tuya-img8.png)
 
 * Go to Device List and copy the code [Device ID] under the Name of the device.
 
@@ -62,12 +62,12 @@ I've used Tuya's OpenAPI to control my smart device. It is extremely easy and an
 * Now, click on the API Explorer in the left navigation menu.
 * You should see a Dashboard similar to this:
 
-![GitHub Logo](/Tuya-img8.png)
+![GitHub Logo](/Tuya-img9.png)
 
 * Go to Device Control > Get the instruction set support and paste the device id into the device-id textbox. Then, click on submit request.
 * You should see a response window, similar to this:
 
-![GitHub Logo](/Tuya-img9.png)
+![GitHub Logo](/Tuya-img10.png)
 
 * Now, from the above response, we'll use the <code>"name": "switch 1"</code> function, and use the True or False values for the input.
 * The reason why we use True/False here is that, the function only accepts these values, or simply Boolean values (Data type). Boolean values are basically Yes or No, or True or False.
